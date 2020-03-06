@@ -1,0 +1,45 @@
+#login_area{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.heading{
+    margin-top: 180px;
+    margin-bottom: 40px;
+    
+}
+
+.deposit{
+    background-color: slateblue;
+}
+
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
+
+.status{
+    margin: 0px 20px;
+    margin-top: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.status h2{
+    font-size: 40px;
+}
+#trans_area{
+    display: none;
+}
+
+.submit_area{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
